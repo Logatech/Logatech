@@ -10,3 +10,6 @@ I'm an aspiring software engineer with a passion for automation, problem-solving
   Published as a **Book Chapter**, 2024  
   🔗 [LinkedIn Post](https://www.linkedin.com/posts/cvsureshbabu_hindustanuniversity-bookchapter-researchstudy-activity-7316681527793184768-DLny?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEmrNOwBTskv3rKvhAvea8lH6UWoZlGPYOk)  
   📄 **About**: This research predicts academic outcomes using ML algorithms such as Decision Tree, Logistic Regression, and Random Forest.
+  📄 [View Research Paper PDF] 
+🖼️ [Proof Screenshot]
+
